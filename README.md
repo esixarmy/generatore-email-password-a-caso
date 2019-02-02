@@ -1,2 +1,8 @@
-# generatore-email-password-a-caso
-Generatore casuale di email non funzionanti (con caratteri greci) e password
+# Random email and password generator
+
+Ciao 🙃 <br />
+Questa repository fa riferimento al video --------------------- <br />
+Se avete domande chiedete pure ❤<br /><br />
+
+<br /><br /><br /><br /><br />
+😘<br />😘<br />😘<br />😘<br />😘<br />😘<br />😘<br />
